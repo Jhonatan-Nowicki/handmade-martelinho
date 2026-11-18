@@ -37,7 +37,7 @@ const FloatingWhatsAppButton = () => {
             isHovered ? 'opacity-100 max-w-xs' : 'opacity-0 max-w-0 overflow-hidden'
           }`}
         >
-          Solicite sua avaliação
+          Agende sua avaliação
         </span>
       </a>
     </div>

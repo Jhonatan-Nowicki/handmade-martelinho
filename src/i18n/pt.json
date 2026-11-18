@@ -4,8 +4,8 @@
     "titulo2": "sem sair de casa",
     "subtitulo": "Especialistas em Martelinho de Ouro com",
     "subtitulo_destaque": "atendimento a domicílio",
-    "botao": "Agendar Avaliação Gratuita",
-    "itens": "✓ Avaliação gratuita • ✓ Atendimento a domicílio • ✓ Sem pintura"
+    "botao": "Agende com um Especialista",
+    "itens": "✓ Avaliação Especializada  • ✓ Atendimento a domicílio • ✓ Sem pintura"
   },
   "about": {
     "titulo": "Quem Somos",
@@ -73,11 +73,11 @@
   },
   "contact": {
     "title": "Solicite sua Avaliação",
-    "subtitle1": "Solicite uma avaliação gratuita, onde você estiver!",
+    "subtitle1": "Solicite uma avaliação, onde você estiver!",
     "subtitle2": "Nossa equipe especializada vai até você para analisar o reparo e apresentar a melhor solução.",
     "formError": "Por favor, preencha pelo menos o nome e telefone.",
     "formSuccess": "Redirecionando para o WhatsApp...",
-    "whatsappIntro": "Olá! Gostaria de solicitar uma avaliação gratuita:",
+    "whatsappIntro":"Olá! Gostaria de agendar uma avaliação especializada para o meu veículo.",
     "whatsappOutro": "Aguardo retorno para agendarmos a avaliação!",
     "notProvided": "Não informado",
     "defaultMessage": "Gostaria de mais informações sobre os serviços.",
@@ -99,7 +99,7 @@
     "section4.week": "Segunda a Sexta: 08h às 18h",
     "section4.saturday": "Sábado: 08h às 14h",
     "section4.sunday": "Domingo: Emergências",
-    "highlight.title": "✓ Avaliação 100% Gratuita",
+    "highlight.title": "✓ Avaliação especializada.",
     "highlight.text": "Não cobramos nada pela análise inicial. Você só paga se aprovar o serviço!"
   },
   "footer": {
@@ -126,7 +126,7 @@
   },
   "rodape": {
     "frase": "Handmade Martelinho de Ouro – Excelência em cada detalhe.",
-    "direitos": "© 2024 Handmade Martelinho de Ouro. Todos os direitos reservados. Desenvolvido por NOWITECH.",
+    "direitos": "© 2024 Handmade Martelinho de Ouro. Todos os direitos reservados.",
     "topo": "Voltar ao topo"
   }
 },
